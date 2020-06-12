@@ -255,3 +255,64 @@ if __name__ == '__main__':
     plt.subplot(1, 2, 2)
     plot_value_array(i, predictions[i], test_labels)
     plt.show()
+    #
+    i = 12
+    plt.figure(figsize=(6, 3))
+    plt.subplot(1, 2, 1)
+    plot_image(i, predictions[i], test_labels, test_images)
+    plt.subplot(1, 2, 2)
+    plot_value_array(i, predictions[i], test_labels)
+    plt.show()
+
+    # Let's plot several images with their predictions. Note that the model can be wrong even when very confident.
+    # Plot the first X test images, their predicted labels, and the true labels.
+    # Color correct predictions in blue and incorrect predictions in red.
+    num_rows = 5
+    num_cols = 3
+    num_images = num_rows * num_cols
+    plt.figure(figsize=(2 * 2 * num_cols, 2 * num_rows))
+    for i in range(num_images):
+        plt.subplot(num_rows, 2 * num_cols, 2 * i + 1)
+        plot_image(i, predictions[i], test_labels, test_images)
+        plt.subplot(num_rows, 2 * num_cols, 2 * i + 2)
+        plot_value_array(i, predictions[i], test_labels)
+    plt.tight_layout()
+    plt.show()
+
+    print("""-- Use the trained model""")
+    # Finally, use the trained model to make a prediction about a single image.
+    # Grab an image from the test dataset.
+    img = test_images[1]
+    print(f"img.shape = {img.shape}")
+
+    # tf.keras models are optimized to make predictions on a batch, or collection, of examples at once.
+    # Accordingly, even though you're using a single image, you need to add it to a list:
+    # Add the image to a batch where it's the only member.
+    img = (np.expand_dims(img, 0))
+    print(f"img.shape = {img.shape}")
+
+    # Now predict the correct label for this image:
+    predictions_single = probability_model.predict(img)
+    print(f"predictions_single = {predictions_single}")
+
+    plot_value_array(1, predictions_single[0], test_labels)
+    _ = plt.xticks(range(10), class_names, rotation=45)
+    plt.show()
+
+    # keras.Model.predict returns a list of lists—one list for each image in the batch of data.
+    # Grab the predictions for our (only) image in the batch:
+    print(f"np.argmax(predictions_single[0]) = {np.argmax(predictions_single[0])}")
+    # > And the model predicts a label as expected.
+
+    # 本指南使用Fashion MNIST数据集，该数据集包含10个类别中的70,000张灰度图像。
+    # 这些图像以低分辨率(28×28像素)显示了衣服的单个物品，如图"/images/fashion-mnist-sprite.png".
+    # Fashion MNIST旨在替代经典的MNIST数据——通常用作计算机视觉机器学习程序的"Hello, World"。
+    # MNIST数据集包含手写数字(0、1、2等)的图像，其格式与您将在这里使用的衣物图像的数据格式相同。
+    #
+    # 这个例子使具有多样性的Fashion MNIST数据集，因为它是一个稍微比常规的MNIST更具挑战性的问题。
+    # 这两个数据集都是相对较小的，并被用来验证一个算法的工作预期。它们是测试和调试代码的良好起点。
+    #
+    # Here, 60,000 images are used to train the network
+    # and 10,000 images to evaluate how accurately the network learned to classify images.
+    # You can access the Fashion MNIST directly from TensorFlow.
+    # Import and load the Fashion MNIST data directly from TensorFlow.
