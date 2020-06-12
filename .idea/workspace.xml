@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6678d33b-e289-4b4f-8e68-e65521a2e5a4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/offcial_website_example/for_beginners/keras_basics.py" beforeDir="false" afterPath="$PROJECT_DIR$/offcial_website_example/for_beginners/keras_basics.py" afterDir="false" />
-    </list>
+    <list default="true" id="6678d33b-e289-4b4f-8e68-e65521a2e5a4" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,14 +40,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/offcial_website_example/for_beginners/keras_basics.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="311" column="6" lean-forward="true" selection-start-line="311" selection-start-column="6" selection-end-line="311" selection-end-column="6" />
+            <state relative-caret-position="343">
+              <caret line="318" lean-forward="true" selection-start-line="318" selection-end-line="318" />
               <folding>
                 <element signature="e#114#196#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1012">
+              <caret line="46" column="14" selection-start-line="46" selection-start-column="14" selection-end-line="46" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -84,6 +91,7 @@
         <option value="$PROJECT_DIR$/for_beginners/keras_basics.py" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/c610069c-cc23-40b6-8f6d-d4b397e9544e/console.sql" />
         <option value="$PROJECT_DIR$/offcial_website_example/for_beginners/keras_basics.py" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
       </list>
     </option>
   </component>
@@ -122,12 +130,6 @@
               <item name="tensorflow2_test" type="462c0819:PsiDirectoryNode" />
               <item name="offcial_website_example" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="tensorflow2_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tensorflow2_test" type="462c0819:PsiDirectoryNode" />
-              <item name="offcial_website_example" type="462c0819:PsiDirectoryNode" />
-              <item name="for_beginners" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -153,12 +155,13 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/offcial_website_example" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/for_beginners" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/offcial_website_example" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -214,12 +217,12 @@
       <updated>1591758125696</updated>
       <workItem from="1591758130046" duration="15853000" />
       <workItem from="1591869299069" duration="85000" />
-      <workItem from="1591869536249" duration="9121000" />
+      <workItem from="1591869536249" duration="9446000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25059000" />
+    <option name="totallyTimeSpent" value="25384000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -234,12 +237,12 @@
     <frame x="0" y="23" width="1680" height="980" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11294261" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22222222" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3355856" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3355856" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -248,7 +251,7 @@
       <window_info anchor="bottom" id="Docker" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32995495" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.41216215" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="13" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -368,11 +371,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/offcial_website_example/for_beginners/keras_basics.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="311" column="6" lean-forward="true" selection-start-line="311" selection-start-column="6" selection-end-line="311" selection-end-column="6" />
+        <state relative-caret-position="343">
+          <caret line="318" lean-forward="true" selection-start-line="318" selection-end-line="318" />
           <folding>
             <element signature="e#114#196#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1012">
+          <caret line="46" column="14" selection-start-line="46" selection-start-column="14" selection-end-line="46" selection-end-column="14" />
         </state>
       </provider>
     </entry>
