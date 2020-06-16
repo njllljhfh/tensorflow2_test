@@ -1,8 +1,7 @@
 # -*- coding:utf-8 -*-
-""" __official_website__ = https://tensorflow.google.cn/tutorials/keras/classification """
+""" __official_website__ = <https://tensorflow.google.cn/tutorials/keras/classification> """
 from __future__ import absolute_import, division, print_function, unicode_literals
 import ssl
-from pprint import pprint
 
 ssl._create_default_https_context = ssl._create_unverified_context  # 关掉ssl验证
 # - - -
@@ -304,12 +303,12 @@ if __name__ == '__main__':
     print(f"np.argmax(predictions_single[0]) = {np.argmax(predictions_single[0])}")
     # > And the model predicts a label as expected.
 
-    # 本指南使用Fashion MNIST数据集，该数据集包含10个类别中的70,000张灰度图像。
+    # 本示例使用Fashion MNIST数据集，该数据集包含10个类别中的70,000张灰度图像。
     # 这些图像以低分辨率(28×28像素)显示了衣服的单个物品，如图"/images/fashion-mnist-sprite.png".
     # Fashion MNIST旨在替代经典的MNIST数据——通常用作计算机视觉机器学习程序的"Hello, World"。
     # MNIST数据集包含手写数字(0、1、2等)的图像，其格式与您将在这里使用的衣物图像的数据格式相同。
     #
-    # 这个例子使具有多样性的Fashion MNIST数据集，因为它是一个稍微比常规的MNIST更具挑战性的问题。
+    # 本示例使具有多样性的Fashion MNIST数据集，因为它是一个稍微比常规的MNIST更具挑战性的问题。
     # 这两个数据集都是相对较小的，并被用来验证一个算法的工作预期。它们是测试和调试代码的良好起点。
     #
     # Here, 60,000 images are used to train the network

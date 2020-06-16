@@ -140,8 +140,9 @@ LOGGING_DIC = {
         'handlers': ['console', 'file_error', 'file_debug'],  # 在控制台和指定的文件中写入日志
         # 'handlers': ['console'],  # 只输出日志到控制台
         # 'handlers': ['console', 'file_error'],  # 输出日志到控制台、错误日志
-        'level': 'DEBUG',
+        # 'level': 'DEBUG',
         # 'level': 'ERROR',
+        'level': 'INFO',
     },
 }
 
