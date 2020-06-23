@@ -43,7 +43,9 @@ pred = tf.add(tf.multiply(X, W), b)
 
 # In[7]:
 # Mean squared error，损失函数：均方差
-cost = tf.reduce_sum(tf.pow(pred - Y, 2)) / (2 * n_samples)  # 问题：这里的均方差多除以了一个2，是什么意思？
+# 问题：这里的均方差多除以了一个2，是什么意思？
+# 答案：½是一个常量，这样是为了在求梯度的时候，二次方乘下来的2就和这里的½抵消了，自然就没有多余的常数系数，方便后续的计算，同时对结果不会有影响.
+cost = tf.reduce_sum(tf.pow(pred - Y, 2)) / (2 * n_samples)
 # Gradient descent， 优化方式：梯度下降
 # optimizer = tf.train.GradientDescentOptimizer(learning_rate).minimize(cost) # 历史版本
 optimizer = tf.compat.v1.train.GradientDescentOptimizer(learning_rate).minimize(cost)

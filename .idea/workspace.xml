@@ -2,16 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6678d33b-e289-4b4f-8e68-e65521a2e5a4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DeepLearning/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DeepLearning/lesson_1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DeepLearning/lesson_1/linear_regression_tf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DeepLearning/lesson_1/tensorflow_basic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DeepLearning/lesson_2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offcial_website_example/for_beginners/load_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DeepLearning/lesson_2/neural_network_tf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/njl_test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/njl_test/测试uuid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/njl_test/热力图.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/offcial_website_example_TFV2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/offcial_website_example_TFV2/for_beginners/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/c610069c-cc23-40b6-8f6d-d4b397e9544e.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/c610069c-cc23-40b6-8f6d-d4b397e9544e.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log_config/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/log_config/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/offcial_website_example/for_beginners/beginner_quickstart.py" beforeDir="false" afterPath="$PROJECT_DIR$/offcial_website_example/for_beginners/beginner_quickstart.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/offcial_website_example/for_beginners/keras_basics.py" beforeDir="false" afterPath="$PROJECT_DIR$/offcial_website_example/for_beginners/keras_basics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearning/lesson_1/linear_regression_tf.py" beforeDir="false" afterPath="$PROJECT_DIR$/DeepLearning/lesson_1/linear_regression_tf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/offcial_website_example/for_beginners/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/DeepLearning/lesson_2/nearest_neighbor_tf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/offcial_website_example/for_beginners/beginner_quickstart.py" beforeDir="false" afterPath="$PROJECT_DIR$/offcial_website_example_TFV2/for_beginners/beginner_quickstart.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/offcial_website_example/for_beginners/keras_basics.py" beforeDir="false" afterPath="$PROJECT_DIR$/offcial_website_example_TFV2/for_beginners/keras_basics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/offcial_website_example/for_beginners/load_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/offcial_website_example_TFV2/for_beginners/load_data.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,63 +54,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/njl_test/柱状图3D.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+              <folding>
+                <element signature="e#23#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DeepLearning/lesson_1/tensorflow_basic.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-494">
-              <caret line="135" column="13" selection-start-line="135" selection-start-column="13" selection-end-line="135" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DeepLearning/lesson_1/linear_regression_tf.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="48" column="30" selection-start-line="48" selection-start-column="30" selection-end-line="48" selection-end-column="30" />
-              <folding>
-                <element signature="e#57#94#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DeepLearning/lesson_2/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DeepLearning/lesson_1/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.virtualenvs/TensorFlow2/lib/python3.6/site-packages/tensorflow/python/training/gradient_descent.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="29" column="52" selection-start-line="29" selection-start-column="52" selection-end-line="29" selection-end-column="52" />
-              <folding>
-                <element signature="n#!!doc" />
-                <element signature="e#1244#3353#0" />
-                <element signature="e#1396#2177#0" />
-                <element signature="e#1396#2029#1" />
-                <element signature="e#2220#2405#0" />
-                <element signature="e#2460#2683#0" />
-                <element signature="e#2766#2877#0" />
-                <element signature="e#2939#3165#0" />
-                <element signature="e#3193#3353#0" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="mock:///myplot.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -140,16 +101,30 @@
         <option value="$PROJECT_DIR$/offcial_website_example/for_beginners/load_data.py" />
         <option value="$PROJECT_DIR$/DeepLearning/lesson_1/tensorflow_basic.py" />
         <option value="$PROJECT_DIR$/DeepLearning/lesson_1/xxx.py" />
-        <option value="$PROJECT_DIR$/DeepLearning/lesson_1/linear_regression_tf.py" />
-        <option value="$PROJECT_DIR$/DeepLearning/lesson_2/__init__.py" />
         <option value="$PROJECT_DIR$/DeepLearning/lesson_1/__init__.py" />
+        <option value="$PROJECT_DIR$/../markdowns/AI/深度学习/lesson2_传统神经网络.md" />
+        <option value="$PROJECT_DIR$/DeepLearning/lesson_2/__init__.py" />
+        <option value="$PROJECT_DIR$/DeepLearning/lesson_1/linear_regression_tf.py" />
+        <option value="$PROJECT_DIR$/njl_test/热力图.py" />
+        <option value="$PROJECT_DIR$/njl_test/__init__.py" />
+        <option value="$PROJECT_DIR$/njl_test/xxx.sql" />
+        <option value="$PROJECT_DIR$/njl_test/xxx.py" />
+        <option value="$PROJECT_DIR$/DeepLearning/lesson_2/nearest_neighbor_tf.py" />
+        <option value="$PROJECT_DIR$/njl_test/测试uuid.py" />
+        <option value="$PROJECT_DIR$/DeepLearning/lesson_2/neural_network_tf.py" />
+        <option value="$PROJECT_DIR$/DeepLearning/lesson_2/xxx_py35.py" />
+        <option value="$PROJECT_DIR$/DeepLearning/lesson_2/xx.py" />
+        <option value="$PROJECT_DIR$/DeepLearning/lesson_2/nearest_neighbor_tf_TFV1.0.py" />
+        <option value="$PROJECT_DIR$/offcial_website_example_TFV2/__init__.py" />
+        <option value="$PROJECT_DIR$/DeepLearning/lesson_2/neural_network_tf_TFV1.0.py" />
+        <option value="$PROJECT_DIR$/njl_test/柱状图3D.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="27" />
-    <option name="width" value="1565" />
-    <option name="height" value="976" />
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="980" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -172,13 +147,30 @@
               <item name="tensorflow2_test" type="b2602c69:ProjectViewProjectNode" />
               <item name="tensorflow2_test" type="462c0819:PsiDirectoryNode" />
               <item name="DeepLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson_1" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson_2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tensorflow2_test" type="b2602c69:ProjectViewProjectNode" />
               <item name="tensorflow2_test" type="462c0819:PsiDirectoryNode" />
-              <item name="DeepLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson_2" type="462c0819:PsiDirectoryNode" />
+              <item name="njl_test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensorflow2_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tensorflow2_test" type="462c0819:PsiDirectoryNode" />
+              <item name="tmp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensorflow2_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tensorflow2_test" type="462c0819:PsiDirectoryNode" />
+              <item name="tmp" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensorflow2_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tensorflow2_test" type="462c0819:PsiDirectoryNode" />
+              <item name="tmp" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="mnist" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -193,7 +185,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="$PROJECT_DIR$/logs/error.log" />
     <property name="database.console.LAST_STATE" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/for_beginners" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tem/data/mnist" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -202,16 +194,18 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/for_beginners" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tmp/data/mnist" />
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/offcial_website_example" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tem/data/mnist" />
+      <recent name="$PROJECT_DIR$/for_beginners" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -226,8 +220,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.linear_regression_tf">
-    <configuration name="beginner_quickstart" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.柱状图3D">
+    <configuration name="递归查询子组" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="tensorflow2_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -235,12 +229,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/offcial_website_example/for_beginners" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/njl_test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/offcial_website_example/for_beginners/beginner_quickstart.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/njl_test/递归查询子组.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -249,7 +243,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="keras_basics" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="柱状图3D" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="tensorflow2_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -257,12 +251,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/offcial_website_example/for_beginners" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/njl_test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/offcial_website_example/for_beginners/keras_basics.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/njl_test/柱状图3D.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -271,7 +265,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="linear_regression_tf" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="nearest_neighbor_tf_TFV1.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="tensorflow2_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -279,12 +273,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepLearning/lesson_1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepLearning/lesson_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepLearning/lesson_1/linear_regression_tf.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepLearning/lesson_2/nearest_neighbor_tf_TFV1.0.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -293,7 +287,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="load_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="neural_network_tf" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="tensorflow2_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -301,12 +295,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/offcial_website_example/for_beginners" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepLearning/lesson_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/offcial_website_example/for_beginners/load_data.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepLearning/lesson_2/neural_network_tf.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -315,7 +309,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tensorflow_basic" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="neural_network_tf_TFV1.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="tensorflow2_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -323,12 +317,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepLearning/lesson_1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepLearning/lesson_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepLearning/lesson_1/tensorflow_basic.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepLearning/lesson_2/neural_network_tf_TFV1.0.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -337,13 +331,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.neural_network_tf" />
+      <item itemvalue="Python.neural_network_tf_TFV1.0" />
+      <item itemvalue="Python.nearest_neighbor_tf_TFV1.0" />
+      <item itemvalue="Python.递归查询子组" />
+      <item itemvalue="Python.柱状图3D" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.linear_regression_tf" />
-        <item itemvalue="Python.tensorflow_basic" />
-        <item itemvalue="Python.load_data" />
-        <item itemvalue="Python.beginner_quickstart" />
-        <item itemvalue="Python.keras_basics" />
+        <item itemvalue="Python.柱状图3D" />
+        <item itemvalue="Python.递归查询子组" />
+        <item itemvalue="Python.neural_network_tf_TFV1.0" />
+        <item itemvalue="Python.nearest_neighbor_tf_TFV1.0" />
+        <item itemvalue="Python.neural_network_tf" />
       </list>
     </recent_temporary>
   </component>
@@ -359,12 +360,18 @@
       <updated>1591758125696</updated>
       <workItem from="1591758130046" duration="15853000" />
       <workItem from="1591869299069" duration="85000" />
-      <workItem from="1591869536249" duration="37772000" />
+      <workItem from="1591869536249" duration="38529000" />
+      <workItem from="1592306668360" duration="71000" />
+      <workItem from="1592307187991" duration="154000" />
+      <workItem from="1592307882789" duration="81000" />
+      <workItem from="1592308100949" duration="40999000" />
+      <workItem from="1592837646252" duration="366000" />
+      <workItem from="1592878058043" duration="1068000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53710000" />
+    <option name="totallyTimeSpent" value="97206000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -376,16 +383,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="27" width="1565" height="976" extended-state="0" />
+    <frame x="0" y="23" width="1680" height="980" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1648063" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17155068" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.270362" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.19256757" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.42117116" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32882884" />
@@ -393,55 +400,271 @@
       <window_info anchor="bottom" id="Docker" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.16402715" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.1981982" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="13" />
+      <window_info anchor="bottom" id="SOQL Query" order="14" />
+      <window_info anchor="bottom" id="Log Analyzer" order="15" />
+      <window_info anchor="bottom" id="Anonymous Apex" order="16" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.31713724" />
-      <window_info anchor="right" id="Database" order="4" weight="0.1641497" />
+      <window_info active="true" anchor="right" id="SciView" order="3" visible="true" weight="0.12881564" />
+      <window_info anchor="right" id="Database" order="4" weight="0.16361417" />
     </layout>
     <layout-to-restore>
-      <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.14041515" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32995495" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="4" />
-      <window_info anchor="bottom" id="Python Console" order="5" />
-      <window_info anchor="bottom" id="Message" order="6" />
-      <window_info anchor="bottom" id="Find" order="7" />
-      <window_info anchor="bottom" id="Run" order="8" visible="true" weight="0.3186937" />
-      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="12" weight="0.32918552" />
-      <window_info anchor="right" id="Database" order="0" />
-      <window_info active="true" anchor="right" id="SciView" order="1" visible="true" weight="0.32967034" />
-      <window_info anchor="right" id="Commander" order="2" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13186814" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3198198" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.5416667" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32882884" />
+      <window_info anchor="bottom" id="Database Console" order="7" weight="0.32995495" />
+      <window_info anchor="bottom" id="Docker" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.1981982" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="13" />
+      <window_info anchor="bottom" id="SOQL Query" order="14" />
+      <window_info anchor="bottom" id="Log Analyzer" order="15" />
+      <window_info anchor="bottom" id="Anonymous Apex" order="16" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.12881564" />
+      <window_info anchor="right" id="Database" order="4" weight="0.16361417" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/tensorflow2_test$tensorflow_basic.coverage" NAME="tensorflow_basic Coverage Results" MODIFIED="1592295305951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning/lesson_1" />
+    <SUITE FILE_PATH="coverage/tensorflow2_test$xxx_py35.coverage" NAME="xxx_py35 Coverage Results" MODIFIED="1592815192290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning/lesson_2" />
+    <SUITE FILE_PATH="coverage/tensorflow2_test$tensorflow_basic.coverage" NAME="tensorflow_basic Coverage Results" MODIFIED="1592734292406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning/lesson_1" />
     <SUITE FILE_PATH="coverage/tensorflow2_test$beginner_quickstart.coverage" NAME="beginner_quickstart Coverage Results" MODIFIED="1591933240861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/offcial_website_example/for_beginners" />
     <SUITE FILE_PATH="coverage/tensorflow2_test$play_1.coverage" NAME="play_1 Coverage Results" MODIFIED="1591781823504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/for_beginners" />
+    <SUITE FILE_PATH="coverage/tensorflow2_test$xxx.coverage" NAME="xxx Coverage Results" MODIFIED="1592810319768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/njl_test" />
+    <SUITE FILE_PATH="coverage/tensorflow2_test$load_data.coverage" NAME="load_data Coverage Results" MODIFIED="1592731466943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/offcial_website_example/for_beginners" />
+    <SUITE FILE_PATH="coverage/tensorflow2_test$neural_network_tf_TFV1_0.coverage" NAME="neural_network_tf_TFV1.0 Coverage Results" MODIFIED="1592817204801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning/lesson_2" />
+    <SUITE FILE_PATH="coverage/tensorflow2_test$neural_network_tf.coverage" NAME="neural_network_tf Coverage Results" MODIFIED="1592811358754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning/lesson_2" />
+    <SUITE FILE_PATH="coverage/tensorflow2_test$.coverage" NAME="递归查询子组 Coverage Results" MODIFIED="1592817459690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/njl_test" />
+    <SUITE FILE_PATH="coverage/tensorflow2_test$nearest_neighbor_tf_TFV1_0.coverage" NAME="nearest_neighbor_tf_TFV1.0 Coverage Results" MODIFIED="1592815793725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning/lesson_2" />
+    <SUITE FILE_PATH="coverage/tensorflow2_test$3D.coverage" NAME="柱状图3D Coverage Results" MODIFIED="1592881831243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/njl_test" />
     <SUITE FILE_PATH="coverage/tensorflow2_test$keras_basics.coverage" NAME="keras_basics Coverage Results" MODIFIED="1591929408387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/offcial_website_example/for_beginners" />
-    <SUITE FILE_PATH="coverage/tensorflow2_test$load_data.coverage" NAME="load_data Coverage Results" MODIFIED="1591966734077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/offcial_website_example/for_beginners" />
-    <SUITE FILE_PATH="coverage/tensorflow2_test$linear_regression_tf.coverage" NAME="linear_regression_tf Coverage Results" MODIFIED="1592297790280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning/lesson_1" />
+    <SUITE FILE_PATH="coverage/tensorflow2_test$nearest_neighbor_tf.coverage" NAME="nearest_neighbor_tf Coverage Results" MODIFIED="1592749302419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning/lesson_2" />
+    <SUITE FILE_PATH="coverage/tensorflow2_test$uuid.coverage" NAME="测试uuid Coverage Results" MODIFIED="1592811060938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/njl_test" />
+    <SUITE FILE_PATH="coverage/tensorflow2_test$linear_regression_tf.coverage" NAME="linear_regression_tf Coverage Results" MODIFIED="1592308134805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning/lesson_1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$USER_HOME$/.virtualenvs/TensorFlow2/lib/python3.6/site-packages/matplotlib/cm.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="35" column="12" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
+        <state relative-caret-position="110">
+          <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#442#1" />
+            <element signature="e#928#1398#0" />
+            <element signature="e#1051#1380#0" />
+            <element signature="e#1081#1194#0" />
+            <element signature="e#1221#1351#0" />
+            <element signature="e#1462#2140#0" />
+            <element signature="e#1462#1587#1" />
+            <element signature="e#1663#1988#0" />
+            <element signature="e#2067#2122#0" />
+            <element signature="e#2292#3416#0" />
+            <element signature="e#2292#2915#1" />
+            <element signature="e#2997#3137#0" />
+            <element signature="e#3188#3222#0" />
+            <element signature="e#3458#4413#0" />
+            <element signature="e#3458#4135#1" />
+            <element signature="e#4442#12622#0" />
+            <element signature="e#4442#4633#1" />
+            <element signature="e#4688#5727#0" />
+            <element signature="e#4688#5200#1" />
+            <element signature="e#5799#8881#0" />
+            <element signature="e#5799#7258#1" />
+            <element signature="e#7337#8568#0" />
+            <element signature="e#7369#8568#0" />
+            <element signature="e#7409#7740#0" />
+            <element signature="e#7960#8237#0" />
+            <element signature="e#8028#8150#0" />
+            <element signature="e#8045#8149#0" />
+            <element signature="e#8301#8371#0" />
+            <element signature="e#8414#8542#0" />
+            <element signature="e#8431#8530#0" />
+            <element signature="e#8612#8675#0" />
+            <element signature="e#8919#9095#0" />
+            <element signature="e#8919#9034#1" />
+            <element signature="e#9130#9171#0" />
+            <element signature="e#9205#9251#0" />
+            <element signature="e#9285#9390#0" />
+            <element signature="e#9446#10112#0" />
+            <element signature="e#9446#9770#1" />
+            <element signature="e#9808#9911#0" />
+            <element signature="e#10147#10337#0" />
+            <element signature="e#10147#10246#1" />
+            <element signature="e#10377#10605#0" />
+            <element signature="e#10377#10527#1" />
+            <element signature="e#10645#11159#0" />
+            <element signature="e#10645#10979#1" />
+            <element signature="e#11194#11455#0" />
+            <element signature="e#11194#11298#1" />
+            <element signature="e#11495#11797#0" />
+            <element signature="e#11495#11635#1" />
+            <element signature="e#11843#12013#0" />
+            <element signature="e#11843#11971#1" />
+            <element signature="e#12060#12297#0" />
+            <element signature="e#12060#12168#1" />
+            <element signature="e#12219#12276#0" />
+            <element signature="e#12330#12622#0" />
+            <element signature="e#12330#12467#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/TensorFlow2/lib/python3.6/site-packages/numpy/random/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2265">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/TensorFlow2/lib/python3.6/site-packages/tensorflow/python/ops/variable_scope.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="1541" column="4" selection-start-line="1541" selection-start-column="4" selection-end-line="1541" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/TensorFlow2/lib/python3.6/site-packages/matplotlib/axes/_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="2895" column="35" selection-start-line="2895" selection-start-column="35" selection-end-line="2895" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/TensorFlow2/lib/python3.6/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="878" column="17" lean-forward="true" selection-start-line="878" selection-start-column="17" selection-end-line="878" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/TensorFlow2/lib/python3.6/site-packages/matplotlib/axes/_axes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="5610" column="24" selection-start-line="5610" selection-start-column="24" selection-end-line="5610" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/TensorFlow2/lib/python3.6/site-packages/matplotlib/figure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="2213" column="8" selection-start-line="2213" selection-start-column="8" selection-end-line="2213" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/TensorFlow2/lib/python3.6/site-packages/matplotlib/backends/backend_agg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="188" column="17" selection-start-line="188" selection-start-column="17" selection-end-line="188" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/TensorFlow2/lib/python3.6/site-packages/matplotlib/image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4104">
+          <caret line="831" column="6" selection-start-line="831" selection-start-column="6" selection-end-line="831" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/njl_test/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/fashion-mnist-sprite.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/592979999/numpy/core/_multiarray_umath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="10470" column="10" selection-start-line="10470" selection-start-column="10" selection-end-line="10470" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/TensorFlow2/lib/python3.6/site-packages/tensorflow/python/data/ops/dataset_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="1355" column="6" selection-start-line="1355" selection-start-column="6" selection-end-line="1355" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/TensorFlow2/lib/python3.6/site-packages/tensorflow/python/keras/datasets/mnist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-439">
+          <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+          <folding>
+            <element signature="e#730#768#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/TensorFlow2/lib/python3.6/site-packages/numpy/core/fromnumeric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-682">
+          <caret line="1112" column="4" selection-start-line="1112" selection-start-column="4" selection-end-line="1112" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/TensorFlow2/lib/python3.6/site-packages/tensorflow/python/ops/gen_math_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5">
+          <caret line="880" column="4" selection-start-line="880" selection-start-column="4" selection-end-line="880" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/TensorFlow2/lib/python3.6/site-packages/tensorflow/python/ops/array_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="2984" column="4" selection-start-line="2984" selection-start-column="4" selection-end-line="2984" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/TensorFlow2/lib/python3.6/site-packages/tensorflow/_api/v2/train/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-231">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#243#299#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/TensorFlow2/lib/python3.6/site-packages/tensorflow/python/keras/optimizer_v2/adam.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="49" column="6" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/TensorFlow2/lib/python3.6/site-packages/tensorflow/python/keras/optimizer_v2/optimizer_v2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="306" column="6" selection-start-line="306" selection-start-column="6" selection-end-line="306" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/TensorFlow2/lib/python3.6/site-packages/tensorflow/python/training/adam.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="40" column="6" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -455,214 +678,228 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/log_config/__init__.py">
+    <entry file="file://$USER_HOME$/.virtualenvs/TensorFlow2/lib/python3.6/site-packages/tensorflow/python/data/ops/iterator_ops.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" selection-start-column="22" selection-end-column="22" />
+        <state relative-caret-position="194">
+          <caret line="813" column="4" selection-start-line="813" selection-start-column="4" selection-end-line="813" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/for_beginners/read.py" />
-    <entry file="file://$USER_HOME$/.virtualenvs/TensorFlow2/lib/python3.6/site-packages/tensorflow/python/keras/losses.py">
+    <entry file="file://$USER_HOME$/.virtualenvs/TensorFlow2/lib/python3.6/site-packages/tensorflow/python/data/experimental/ops/batching.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="706" column="6" selection-start-line="706" selection-start-column="6" selection-end-line="706" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/TensorFlow2/lib/python3.6/site-packages/tensorflow/python/keras/engine/training.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="588" column="12" lean-forward="true" selection-start-line="588" selection-start-column="12" selection-end-line="588" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logs/error.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logs/debug.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/fashion-mnist-sprite.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/offcial_website_example/for_beginners/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/offcial_website_example/for_beginners/beginner_quickstart.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="533">
-          <caret line="66" column="4" selection-start-line="66" selection-start-column="4" selection-end-line="66" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log_config/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="142" column="21" selection-start-line="142" selection-start-column="21" selection-end-line="142" selection-end-column="21" />
-          <folding>
-            <element signature="e#23#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/c610069c-cc23-40b6-8f6d-d4b397e9544e/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/TensorFlow2/lib/python3.6/site-packages/tensorflow/python/data/ops/dataset_ops.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9151">
-          <caret line="2349" column="6" selection-start-line="2349" selection-start-column="6" selection-end-line="2349" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/TensorFlow2/lib/python3.6/site-packages/tensorflow/python/feature_column/feature_column_v2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="1752" column="4" selection-start-line="1752" selection-start-column="4" selection-end-line="1752" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/TensorFlow2/lib/python3.6/site-packages/numpy/core/arrayprint.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="110" column="13" selection-start-line="110" selection-start-column="13" selection-end-line="110" selection-end-column="13" />
+        <state relative-caret-position="-827">
+          <caret line="200" column="4" selection-start-line="200" selection-start-column="4" selection-end-line="200" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/.virtualenvs/TensorFlow2/lib/python3.6/site-packages/tensorflow/python/data/experimental/ops/readers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="314" column="4" selection-start-line="314" selection-start-column="4" selection-end-line="314" selection-end-column="4" />
+        <state relative-caret-position="-1654">
+          <caret line="750" column="38" selection-start-line="750" selection-start-column="38" selection-end-line="750" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/offcial_website_example/for_beginners/load_data.py">
+    <entry file="file://$USER_HOME$/.virtualenvs/TensorFlow2/lib/python3.6/site-packages/tensorflow/_api/v2/data/experimental/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="285" selection-start-line="285" selection-end-line="285" />
+        <state relative-caret-position="247">
+          <caret line="81" column="69" selection-start-line="81" selection-start-column="69" selection-end-line="81" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/offcial_website_example_TFV2/for_beginners/load_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="57" column="26" selection-start-line="57" selection-start-column="26" selection-end-line="57" selection-end-column="26" />
           <folding>
             <element signature="e#109#191#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DeepLearning/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/DeepLearning/lesson_1/tensorflow_basic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="57" column="5" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/TensorFlow2/lib/python3.6/site-packages/tensorflow/_api/v2/nn/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-425">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#189#245#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/TensorFlow2/lib/python3.6/site-packages/tensorflow/python/ops/nn_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="3161" column="4" selection-start-line="3161" selection-start-column="4" selection-end-line="3161" selection-end-column="4" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$USER_HOME$/.virtualenvs/TensorFlow2/lib/python3.6/site-packages/tensorflow/python/client/session.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="1720" column="6" selection-start-line="1720" selection-start-column="6" selection-end-line="1720" selection-end-column="6" />
+        <state relative-caret-position="134">
+          <caret line="1156" selection-start-line="1156" selection-end-line="1156" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/TensorFlow2/lib/python3.6/site-packages/tensorflow/python/ops/random_ops.py">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/uuid.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="43" column="4" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
+        <state relative-caret-position="8">
+          <caret line="608" column="74" selection-start-line="608" selection-start-column="74" selection-end-line="608" selection-end-column="74" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/TensorFlow2/lib/python3.6/site-packages/tensorflow/python/ops/variables.py">
+    <entry file="file://$PROJECT_DIR$/njl_test/热力图.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="3065" column="4" selection-start-line="3065" selection-start-column="4" selection-end-line="3065" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/TensorFlow2/lib/python3.6/site-packages/tensorflow/python/ops/variable_scope.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="1541" column="4" selection-start-line="1541" selection-start-column="4" selection-end-line="1541" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/TensorFlow2/lib/python3.6/site-packages/tensorflow/python/ops/init_ops_v2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="916">
-          <caret line="362" column="6" selection-start-line="362" selection-start-column="6" selection-end-line="362" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/offcial_website_example/for_beginners/keras_basics.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-87">
-          <caret line="63" column="59" selection-start-line="63" selection-start-column="59" selection-end-line="63" selection-end-column="59" />
+        <state relative-caret-position="242">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
           <folding>
-            <element signature="e#116#198#0" expanded="true" />
+            <element signature="e#23#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/njl_test/测试uuid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearning/lesson_1/linear_regression_tf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="50" column="8" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
+          <folding>
+            <element signature="e#93#130#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/.virtualenvs/TensorFlow2/lib/python3.6/site-packages/tensorflow/python/ops/math_ops.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="492" column="4" selection-start-line="492" selection-start-column="4" selection-end-line="492" selection-end-column="4" />
+        <state relative-caret-position="178">
+          <caret line="143" column="4" selection-start-line="143" selection-start-column="4" selection-end-line="143" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/TensorFlow2/lib/python3.6/site-packages/tensorflow/python/training/gradient_descent.py">
+    <entry file="file://$USER_HOME$/.virtualenvs/TensorFlow2/lib/python3.6/site-packages/tensorflow/python/training/optimizer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="29" column="52" selection-start-line="29" selection-start-column="52" selection-end-line="29" selection-end-column="52" />
+        <state relative-caret-position="194">
+          <caret line="354" column="6" selection-start-line="354" selection-start-column="6" selection-end-line="354" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/TensorFlow2/lib/python3.6/site-packages/tensorflow/python/ops/random_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="215" column="22" selection-start-line="215" selection-start-column="22" selection-end-line="215" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/TensorFlow2/lib/python3.6/site-packages/tensorflow/_api/v2/random/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
           <folding>
-            <element signature="n#!!doc" />
-            <element signature="e#1244#3353#0" />
-            <element signature="e#1396#2177#0" />
-            <element signature="e#1396#2029#1" />
-            <element signature="e#2220#2405#0" />
-            <element signature="e#2460#2683#0" />
-            <element signature="e#2766#2877#0" />
-            <element signature="e#2939#3165#0" />
-            <element signature="e#3193#3353#0" />
+            <element signature="e#174#230#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DeepLearning/lesson_2/__init__.py">
+    <entry file="file://$PROJECT_DIR$/offcial_website_example_TFV2/for_beginners/keras_basics.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DeepLearning/lesson_1/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DeepLearning/lesson_1/linear_regression_tf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="48" column="30" selection-start-line="48" selection-start-column="30" selection-end-line="48" selection-end-column="30" />
+        <state relative-caret-position="-1404">
+          <caret line="203" column="38" selection-start-line="203" selection-start-column="38" selection-end-line="203" selection-end-column="38" />
           <folding>
-            <element signature="e#57#94#0" expanded="true" />
+            <element signature="e#116#198#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DeepLearning/lesson_1/tensorflow_basic.py">
+    <entry file="file://$PROJECT_DIR$/DeepLearning/lesson_2/nearest_neighbor_tf.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-494">
-          <caret line="135" column="13" selection-start-line="135" selection-start-column="13" selection-end-line="135" selection-end-column="13" />
+        <state relative-caret-position="-217">
+          <caret line="32" column="7" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearning/lesson_2/neural_network_tf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1034">
+          <caret line="83" column="29" selection-start-line="83" selection-start-column="29" selection-end-line="83" selection-end-column="29" />
+          <folding>
+            <element signature="e#494#531#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/tensorflow/lib/python3.5/site-packages/tensorflow/examples/tutorials/mnist/input_data.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/tensorflow/lib/python3.5/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="231" column="4" selection-start-line="231" selection-start-column="4" selection-end-line="231" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/TensorFlow2/lib/python3.6/site-packages/tensorflow/python/keras/layers/core.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="1073" column="9" selection-start-line="1073" selection-start-column="9" selection-end-line="1073" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/offcial_website_example_TFV2/for_beginners/beginner_quickstart.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/offcial_website_example_TFV2/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearning/lesson_2/nearest_neighbor_tf_TFV1.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-623">
+          <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+          <folding>
+            <element signature="e#97#134#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/njl_test/递归查询子组.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="626">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearning/lesson_2/neural_network_tf_TFV1.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/njl_test/柱状图3D.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding>
+            <element signature="e#23#41#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

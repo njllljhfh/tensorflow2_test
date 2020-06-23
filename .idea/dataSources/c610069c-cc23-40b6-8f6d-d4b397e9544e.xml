@@ -1208,7 +1208,7 @@
       <Comment>1、有效
             非零值为其他意义：
             -1、逻辑删除
-            </Comment>
+</Comment>
       <DataType>tinyint(4)|0s</DataType>
       <DefaultExpression>0</DefaultExpression>
       <ColumnKind>normal</ColumnKind>
@@ -1362,7 +1362,7 @@ CLASS_ORDER_ID</ColNames>
       <Position>7</Position>
       <Comment>1、有效
             非零值为其他意义：
-            </Comment>
+</Comment>
       <DataType>tinyint(4)|0s</DataType>
       <DefaultExpression>0</DefaultExpression>
       <ColumnKind>normal</ColumnKind>
@@ -1386,7 +1386,7 @@ CLASS_ORDER_ID</ColNames>
 
             11、指定相机位显示
             13、指定原图及现生图
-            </Comment>
+</Comment>
       <DataType>tinyint(4)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
@@ -1399,7 +1399,7 @@ CLASS_ORDER_ID</ColNames>
 
             11、指定相机位显示
             13、指定原图及现生图
-            </Comment>
+</Comment>
       <DataType>varchar(512)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
@@ -1434,7 +1434,7 @@ CLASS_ORDER_ID</ColNames>
     </column>
     <column id="366" parent="244" name="IS_VALID">
       <Position>4</Position>
-      <Comment>1、有效 非零值为其他意义： -1、逻辑删除 </Comment>
+      <Comment>1、有效 非零值为其他意义： -1、逻辑删除</Comment>
       <DataType>tinyint(4)|0s</DataType>
       <DefaultExpression>0</DefaultExpression>
       <ColumnKind>normal</ColumnKind>
@@ -1660,7 +1660,7 @@ PRO_ID</ColNames>
              
             11、连接上位机
             12、断开上位机连接
-            </Comment>
+</Comment>
       <DataType>tinyint(4)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
@@ -1668,7 +1668,7 @@ PRO_ID</ColNames>
       <Position>4</Position>
       <Comment>0、成功
             非零值为失败，可扩展使用：
-            </Comment>
+</Comment>
       <DataType>tinyint(4)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
@@ -1736,7 +1736,7 @@ OPER_ID</ColNames>
       <Position>7</Position>
       <Comment>1、有效
             非零值为其他意义：
-            </Comment>
+</Comment>
       <DataType>tinyint(4)|0s</DataType>
       <DefaultExpression>0</DefaultExpression>
       <ColumnKind>normal</ColumnKind>
@@ -1812,7 +1812,7 @@ OPER_ID</ColNames>
       <Comment>1、有效
             非零值为其他意义：
             -1、逻辑删除
-            </Comment>
+</Comment>
       <DataType>tinyint(4)|0s</DataType>
       <DefaultExpression>0</DefaultExpression>
       <ColumnKind>normal</ColumnKind>
@@ -1928,7 +1928,7 @@ OPER_ID</ColNames>
       <Position>15</Position>
       <Comment>0、否
             1、是
-            </Comment>
+</Comment>
       <DataType>tinyint(4)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
@@ -1936,7 +1936,7 @@ OPER_ID</ColNames>
       <Position>16</Position>
       <Comment>0、否
             1、是
-            </Comment>
+</Comment>
       <DataType>tinyint(4)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
@@ -1953,7 +1953,7 @@ OPER_ID</ColNames>
       <Comment>1、有效
             非零值为其他意义：
             -1、逻辑删除
-            </Comment>
+</Comment>
       <DataType>tinyint(4)|0s</DataType>
       <DefaultExpression>0</DefaultExpression>
       <ColumnKind>normal</ColumnKind>
@@ -2037,7 +2037,7 @@ OPER_ID</ColNames>
       <Comment>0、OK
             1、NG-可维修
             2、NG-报废
-            </Comment>
+</Comment>
       <DataType>int(11)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
@@ -2088,7 +2088,7 @@ OPER_ID</ColNames>
       <Comment>1、有效
             非零值为其他意义：
             -1、逻辑删除
-            </Comment>
+</Comment>
       <DataType>tinyint(4)|0s</DataType>
       <DefaultExpression>0</DefaultExpression>
       <ColumnKind>normal</ColumnKind>
@@ -2167,7 +2167,7 @@ OPER_ID</ColNames>
             4、检测失败
             
             9、other
-            </Comment>
+</Comment>
       <DataType>tinyint(4)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
@@ -2183,7 +2183,7 @@ OPER_ID</ColNames>
       <Position>7</Position>
       <Comment>1、有效
             非零值为其他意义：
-            </Comment>
+</Comment>
       <DataType>tinyint(4)|0s</DataType>
       <DefaultExpression>0</DefaultExpression>
       <ColumnKind>normal</ColumnKind>
@@ -2330,7 +2330,7 @@ OPER_ID</ColNames>
       <Comment>1、有效
             非零值为其他意义：
             -1、逻辑删除
-            </Comment>
+</Comment>
       <DataType>tinyint(4)|0s</DataType>
       <DefaultExpression>0</DefaultExpression>
       <ColumnKind>normal</ColumnKind>
@@ -2538,7 +2538,7 @@ OPER_ID</ColNames>
     <column id="547" parent="257" name="PASS_RATE">
       <Position>16</Position>
       <Comment>可以*100后存储，使用时/100转换为百分比
-            </Comment>
+</Comment>
       <DataType>int(11)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
@@ -2577,7 +2577,7 @@ OPER_ID</ColNames>
       <Comment>1、有效
             非零值为其他意义：
             -1、逻辑删除
-            </Comment>
+</Comment>
       <DataType>tinyint(4)|0s</DataType>
       <DefaultExpression>0</DefaultExpression>
       <ColumnKind>normal</ColumnKind>
@@ -2701,7 +2701,7 @@ OPER_ID</ColNames>
       <Comment>-1、无效记录
             1、当前有效
             0、历史批次
-            </Comment>
+</Comment>
       <DataType>tinyint(4)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
@@ -2786,7 +2786,7 @@ OPER_ID</ColNames>
       <Comment>-1、无效记录
             1、当前有效
             0、历史批次
-            </Comment>
+</Comment>
       <DataType>tinyint(4)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
@@ -2922,7 +2922,7 @@ OPER_ID</ColNames>
       <Position>7</Position>
       <Comment>1、有效
             非零值为其他意义：
-            </Comment>
+</Comment>
       <DataType>tinyint(4)|0s</DataType>
       <DefaultExpression>0</DefaultExpression>
       <ColumnKind>normal</ColumnKind>
@@ -2975,7 +2975,7 @@ OPER_ID</ColNames>
             8
             9
             10
-            </Comment>
+</Comment>
       <DataType>tinyint(4)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
@@ -3071,7 +3071,7 @@ OPER_ID</ColNames>
             8
             9
             10
-            </Comment>
+</Comment>
       <DataType>tinyint(4)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
@@ -3158,7 +3158,7 @@ OPER_ID</ColNames>
       <Position>7</Position>
       <Comment>1、有效
             非零值为其他意义：
-            </Comment>
+</Comment>
       <DataType>tinyint(4)|0s</DataType>
       <DefaultExpression>0</DefaultExpression>
       <ColumnKind>normal</ColumnKind>
@@ -3328,7 +3328,7 @@ OPER_ID</ColNames>
     <column id="677" parent="269" name="DL_LABEL_ID">
       <Position>3</Position>
       <Comment>DL标注实例编号，当前为DL训练的缺陷才会有，可以为空
-            </Comment>
+</Comment>
       <DataType>int(11)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
@@ -3372,7 +3372,7 @@ OPER_ID</ColNames>
       <Comment>-1、无效记录
             1、当前有效
             0、历史批次
-            </Comment>
+</Comment>
       <DataType>tinyint(4)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
@@ -3561,7 +3561,7 @@ OPER_ID</ColNames>
     </column>
     <column id="716" parent="271" name="IS_VALID">
       <Position>10</Position>
-      <Comment>1、有效  非零值为其他意义： -1、逻辑删除 </Comment>
+      <Comment>1、有效  非零值为其他意义： -1、逻辑删除</Comment>
       <DataType>tinyint(4)|0s</DataType>
       <DefaultExpression>0</DefaultExpression>
       <ColumnKind>normal</ColumnKind>
@@ -3614,7 +3614,7 @@ OPER_ID</ColNames>
       <Comment>0、OK
             1、NG-可维修
             2、NG-报废
-            </Comment>
+</Comment>
       <DataType>int(11)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
@@ -3878,7 +3878,7 @@ OPER_ID</ColNames>
     </column>
     <column id="770" parent="277" name="GG">
       <Position>5</Position>
-      <Comment>1-&gt;6*10\n            2-&gt;6*12\n            3-&gt;6*20\n            4-&gt;6*24\n            </Comment>
+      <Comment>1-&gt;6*10\n            2-&gt;6*12\n            3-&gt;6*20\n            4-&gt;6*24\n</Comment>
       <DataType>tinyint(4)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
@@ -3925,7 +3925,7 @@ OPER_ID</ColNames>
     </column>
     <column id="778" parent="277" name="IS_VALID">
       <Position>13</Position>
-      <Comment>1、有效\n            非零值为其他意义：\n            -1、逻辑删除\n            </Comment>
+      <Comment>1、有效\n            非零值为其他意义：\n            -1、逻辑删除\n</Comment>
       <DataType>tinyint(4)|0s</DataType>
       <DefaultExpression>0</DefaultExpression>
       <ColumnKind>normal</ColumnKind>
@@ -3991,7 +3991,7 @@ OPER_ID</ColNames>
             2、暂停使用（人为设置）
             3、
             4、故障（人为设置）
-            </Comment>
+</Comment>
       <DataType>tinyint(4)|0s</DataType>
       <DefaultExpression>0</DefaultExpression>
       <ColumnKind>normal</ColumnKind>
@@ -4191,7 +4191,7 @@ OPER_ID</ColNames>
             2、暂停使用（人为设置）
             3、
             4、故障（人为设置）
-            </Comment>
+</Comment>
       <DataType>tinyint(4)|0s</DataType>
       <DefaultExpression>0</DefaultExpression>
       <ColumnKind>normal</ColumnKind>
@@ -4264,7 +4264,7 @@ OPER_ID</ColNames>
             2、暂停使用（人为设置）
             3、
             4、故障（人为设置）
-            </Comment>
+</Comment>
       <DataType>tinyint(4)|0s</DataType>
       <DefaultExpression>0</DefaultExpression>
       <ColumnKind>normal</ColumnKind>
@@ -4434,7 +4434,7 @@ OPER_ID</ColNames>
       <Comment>1、有效
             非零值为其他意义：
             -1、逻辑删除
-            </Comment>
+</Comment>
       <DataType>tinyint(4)|0s</DataType>
       <DefaultExpression>0</DefaultExpression>
       <ColumnKind>normal</ColumnKind>
@@ -4713,7 +4713,7 @@ DM_ID</ColNames>
     </column>
     <column id="917" parent="291" name="STATE">
       <Position>5</Position>
-      <Comment>0、初始化（未审核） 1、有效 2、锁定or停用 3、 -1、失效 </Comment>
+      <Comment>0、初始化（未审核） 1、有效 2、锁定or停用 3、 -1、失效</Comment>
       <DataType>tinyint(4)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
