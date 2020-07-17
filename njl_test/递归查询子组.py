@@ -51,12 +51,14 @@ if __name__ == '__main__':
         Group(12, 11),  # is a sub group of the group with group_id = 1
     ]
 
-    super_group_id_ls = [1, ]
+    super_group_id_ls = [1, 10]
 
     sub_group_ls = list()
     t1 = time.time()
     recursion_retrieve(super_group_id_ls, obj_ls, sub_group_ls)
     t2 = time.time()
-    print(f"耗时：{t2 - t1}")
-    print(sub_group_ls)
-    print(f"I = {I}")
+    print("耗时：{}".format(t2 - t1))
+    print("sub_group_ls ={}".format(sub_group_ls))
+    print("I = {}".format(I))
+
+    print("all group_id_ls ={}".format(list(set(sub_group_ls + super_group_id_ls))))
